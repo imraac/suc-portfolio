@@ -12,7 +12,7 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'Animation Application',
-        projectDesc: '',
+        projectDesc: 'Anime app where one can watch upcoming animations and download anime char in a certain show',
         tags: ['', 'HTML' ,'CSS', 'Javascript'],
         code: 'https://github.com/imraac/anime-app',
         demo: 'https://anime-app-plum.vercel.app/',
@@ -30,7 +30,7 @@ export const projectsData = [
     {
         id: 3,
         projectName: 'LMSystem',
-        projectDesc: '',
+        projectDesc: 'Learn from a variety of courses labs plus Pro subscriptions',
         tags: ['React', 'Python', 'Flask', "PostgreSQL","JScript"],
         code: 'https://github.com/imraac/LMS-backend',
         demo: 'https://backup-xi.vercel.app/',
@@ -38,7 +38,7 @@ export const projectsData = [
     },
     {
         id: 4,
-        projectName: 'Reliance Digital Clone - Backend Integration',
+        projectName: 'Timesheet Digital Clone - Backend Integration',
         projectDesc: 'Fullstack Timesheet App built with React ,sqlite & FastAPI',
         tags: ['FastAPI', 'Sqlite', 'React', ''],
         code: 'https://github.com/imraac/timesheet',
